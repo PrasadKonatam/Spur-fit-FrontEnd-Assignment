@@ -1,3 +1,27 @@
+# Design Replication:
+
+    Leveraged React JS and Tailwind CSS technologies.
+
+    Captured a screenshot of the designated design for reference.
+
+    Dynamically replaced placeholder text with dynamic content, integrating AOS animations for enhanced visual appeal.
+
+    Implemented the exact logo and achieved a faithful reproduction of the original design.
+
+# Signature Video Integration:
+
+    Adopted a similar approach by capturing a screenshot of the design.
+
+    Embedded the captured image as a component within the application to simulate the signature video section.
+
+# Open Vacancies Section Enhancement:
+
+    Implemented strategic use of display properties.
+
+    Employed hover effects to dynamically reveal and conceal buttons associated with each card.
+
+    Enhanced the interactive and seamless user experience within the Open Vacancies section.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
